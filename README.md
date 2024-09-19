@@ -1,0 +1,1 @@
+This C++ code creates a virtual piano using the console interface in a Windows environment. It allows the user to play musical notes by pressing specific keys on the keyboard and adjusts the frequency (pitch) of the notes. The program uses system functions and libraries like windows.h, conio.h, and stdlib.h to manipulate the console's display and sound output.
